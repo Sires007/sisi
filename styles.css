@@ -1,4 +1,13 @@
-body {
+​
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 3px solid green;
+}
+​
+.categoria h2 {
+    color: rgb(11, 132, 228);
+</html>body {
+}</html>body {body {
     color: white;
     background: black;
     margin: 0px;
